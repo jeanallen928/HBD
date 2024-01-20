@@ -47,7 +47,7 @@ const modalMessageList = [
   { "number": 1, "message": "해피뉴이어!" },
   { "number": 2, "message": "곧 징웅넝 생일이네!" },
   { "number": 3, "message": `귤을 좋아하는 징웅넝!\n남은 겨울동안 맛있는 귤 많이 먹어~` },
-  { "number": 4, "message": `지우너 생일까지 16일!!!\n아이스크림을 좋아하는 지우너에게` },
+  { "number": 4, "message": `지우너 생일까지 17일!!!\n아이스크림을 좋아하는 지우너에게` },
   { "number": 5, "message": "구염둥이 징웅넝 생일까지 16일!" },
   { "number": 6, "message": "열심히 일하는 지우넝! 멋있어!!!" },
   { "number": 7, "message": "생일이 다가온다! 돈이 들어 온다!" },
